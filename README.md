@@ -139,5 +139,7 @@ Contract Address:
 CA2CPSF57SRXTKGSS2ZBR2FQ2X64O5VMJF6JRFT4PAAN5EDPVYLPX4XN
 
 
+## UI Screenshot
+<img width="644" height="659" alt="Screenshot 2026-05-28 at 18 47 22" src="https://github.com/user-attachments/assets/5ee686e9-acdf-48f1-b704-d409d3194f95" />
 
 
